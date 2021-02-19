@@ -1,0 +1,11 @@
+.b{
+    background-image: url("https://img.rolandberger.com/img/Background-Folder/Backgrounds/RB_Dig_KIQuiz_stage_00_image_caption_none.jpg");
+   
+    width: 1650px;
+    height:780px;
+    /* background-repeat: no-repeat, repeat; */
+    background-attachment: fixed;
+    background-size: cover;
+
+    
+}

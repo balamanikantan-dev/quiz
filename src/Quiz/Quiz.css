@@ -1,0 +1,52 @@
+.a1{
+    height:600px;
+    width:1700px;
+  background-image: linear-gradient(to right, lightblue, blue);
+  margin:auto;
+
+}
+.a2{
+    padding-top:100px;
+    color:gray;
+    margin-left:20px;
+
+}
+.a3{
+    padding:20px 30px;
+    margin-bottom:10px;
+    letter-spacing: 1px;
+}
+.but{
+    width:30%;
+    background-color: white;
+    color: blue;
+    padding: 14px 20px;
+    margin: 8px 10px 0 60px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size:20px;
+
+}
+.but:hover {
+    background-color: white;
+  }
+  .fle{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      background-color: purple;
+     
+    
+}
+.fle1{
+    margin-left:1200px;
+    font-size:20px;
+    color:white;
+}
+.fle2{
+    margin-left:30px;
+    font-size:20px;
+    color:white;
+    
+}

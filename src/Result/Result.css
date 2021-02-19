@@ -1,0 +1,21 @@
+.res{
+    height:600px;
+    width:1300px;
+  background-image: linear-gradient(to right, lightblue, blue);
+  margin:auto;
+  align-items: center;
+  display:flex;
+}
+.res1{
+    text-align:center;
+    font-size:50px;
+   margin:0 500px 200px;
+  
+   font-family: "Sofia", sans-serif;
+  
+}
+.re2{
+    font-family: "Sofia", sans-serif;
+    font-size:55px;
+    font-weight: 100;
+}
